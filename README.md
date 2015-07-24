@@ -1,4 +1,4 @@
 Roum
 ====
 
-** TODO: Add description **
+Procedurally generated universe written in Elixir.
